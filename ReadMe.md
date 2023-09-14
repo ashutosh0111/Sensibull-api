@@ -1,5 +1,3 @@
-Certainly, here's the README.md file with the API endpoints and sample output included:
-
 ```markdown
 # Sensibull API
 
